@@ -5,7 +5,7 @@ import pyttsx3
 # ================= CONFIG =================
 USER_NAME = "Naman"
 WAKE_WORD = "hey namo"
-genai.configure(api_key="AIzaSyDBZGWbOOL6ntypSLorl2ebdcD_rwM_21w")
+genai.configure(api_key="ADD_YOUR_API_KEY")
 
 # ================= TEXT TO SPEECH =================
 engine = pyttsx3.init()
